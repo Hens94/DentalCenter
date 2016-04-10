@@ -1,0 +1,48 @@
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD.mdf
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD_log.ldf
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe.config
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.pdb
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\bin\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Properties.Resources.resources
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.resources
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.MenuItem.resources
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.es-NI.resources
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csproj.GenerateResource.Cache
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.exe
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.pdb
+C:\Users\Henry\documents\visual studio 2013\Projects\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe.config
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.exe
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.pdb
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD.mdf
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD_log.ldf
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.pdb
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\bin\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csprojResolveAssemblyReference.cache
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Properties.Resources.resources
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.resources
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.Paciente.FrmPacienteMain.resources
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.MenuItem.resources
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.es-NI.resources
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csproj.GenerateResource.Cache
+C:\Users\Henry\Desktop\Siliwili\DentalCenter\DentalCenter1\obj\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD.mdf
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\Models\DentalCenterBD_log.ldf
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe.config
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.exe
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\DentalCenter.pdb
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\bin\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Properties.Resources.resources
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.resources
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.Paciente.FrmPacienteMain.resources
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.MenuItem.resources
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.FrmMain.es-NI.resources
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csproj.GenerateResource.Cache
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\es-NI\DentalCenter.resources.dll
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.exe
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.pdb
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.csprojResolveAssemblyReference.cache
+C:\Users\Henry Gadea\Documents\HGM\Proyectos\DentalCenter\DentalCenter1\obj\Debug\DentalCenter.Views.Paciente.FrmNuevoPaciente.resources
